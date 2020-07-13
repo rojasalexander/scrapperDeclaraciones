@@ -1,4 +1,3 @@
-import PyPDF4
 import re
 import io
 import os, fnmatch
